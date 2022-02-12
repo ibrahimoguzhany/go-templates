@@ -1,8 +1,9 @@
 package handlers
 
 import (
-	"github.com/ibrahimoguzhany/go-templates/pkg/render"
 	"net/http"
+
+	"github.com/ibrahimoguzhany/go-templates/pkg/render"
 )
 
 // Home is the home page handler

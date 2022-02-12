@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/ibrahimoguzhany/go-templates/pkg/handlers"
 	"net/http"
+
+	"github.com/ibrahimoguzhany/go-templates/pkg/handlers"
 )
 
 const portNumber = ":8080"
